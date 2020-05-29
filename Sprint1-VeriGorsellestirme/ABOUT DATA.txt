@@ -1,0 +1,16 @@
+############# corona_2019.csv ################
+Sno 		- Seri numarası
+ObservationDate - Gözlem tarihi
+Province/State 	- Gözlemin yapıldığı eyalet veya şehir
+Country/Region 	- Gözlemin yapıldığı ülke
+Last Update 	- Belirtilen eyalet veya ülke için verinin güncellendiği UTC saati
+Confirmed 	- O tarihe kadar doğrulanmış toplam vaka sayısı
+Deaths 		- O tarihe kadar gerçekleşen toplam ölüm sayısı
+Recovered 	- O tarihe kadar gerçekleşen toplam kurtulma sayısı
+
+############# corona_*.csv ################
+Province/State 	- Eyalet veya şehir
+Country/Region 	- Ülke
+Lat 		- Latitude (Enlem)
+Long 		- Longitude (Boylam)
+(Tarihler ayrı ayrı öznitelik olarak yer almaktadır)
